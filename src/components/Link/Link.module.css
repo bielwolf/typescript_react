@@ -2,6 +2,7 @@
     text-decoration: none;
     color: var(--preto);
     display: inline-block;
+    transition: transform .2s;
 }
 
 .link:hover {
